@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web Instant Messenger\n"
+"POT-Creation-Date: 2018-04-29 14:24+0100\n"
+"PO-Revision-Date: 2018-04-29 14:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-web-instant-messenger-admin.php:98
+msgid "Web Instant Messenger Options"
+msgstr "Opzioni Web Instant Messenger"
+
+#: admin/class-web-instant-messenger-admin.php:98
+msgid "WIM Options"
+msgstr "Opzioni WIM"
+
+#: admin/class-web-instant-messenger-admin.php:113
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/class-web-instant-messenger-admin.php:160
+msgid "Irks! An error has occurred twice."
+msgstr ""
+
+#: admin/partials/web-instant-messenger-admin-display.php:42
+msgid "Something went wrong: "
+msgstr "Qualcosa non ha funzionato correttamente:"
+
+#: admin/partials/web-instant-messenger-admin-display.php:46
+msgid "Web Instant Messenger authorized!"
+msgstr "Web Instant Messenger autorizzato!"
+
+#: admin/partials/web-instant-messenger-admin-display.php:52
+msgid "Web Instant Messenger unauthorized!"
+msgstr "Web Instant Messenger non autorizzato!"
+
+#: admin/partials/web-instant-messenger-admin-display.php:57
+msgid "Not a valid domain!"
+msgstr "Non è un dominio valido!"
+
+#: admin/partials/web-instant-messenger-admin-display.php:80
+msgid "Verify Activation"
+msgstr "Verifica l'attivazione"
+
+#: admin/partials/web-instant-messenger-admin-display.php:111
+#: admin/partials/web-instant-messenger-admin-display.php:117
+msgid "Activate Web Instant Messenger"
+msgstr "Attiva Web Instant Messenger"
+
+#: admin/partials/web-instant-messenger-admin-display.php:127
+msgid "Business Name"
+msgstr "Ragione Sociale"
+
+#: admin/partials/web-instant-messenger-admin-display.php:134
+#: admin/partials/web-instant-messenger-admin-display.php:140
+msgid "Insert here your business name which will appear on the chat header"
+msgstr ""
+"Inserisci qui il nome della tua attività commerciale che verrà "
+"visualizzato nell'intestazione della chat"
+
+#: admin/partials/web-instant-messenger-admin-display.php:148
+msgid "Save Options"
+msgstr "Salva Opzioni"

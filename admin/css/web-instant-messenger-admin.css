@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .verify_attivation_btn {
+    width: 10%;
+    display: inline-block;
+    padding: 20px 20px 20px 20px !important;
+ }
+ .verify_response{
+    width: 80%;
+    display: inline-block;
+    padding: 20px 20px 20px 20px !important;
+    margin-top: 5px;
+    color: green;
+ }
+ .options-rows {
+    display: inline-block;
+    position: relative;
+    min-width: 12%;
+ }

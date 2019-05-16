@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web Instant Messenger\n"
+"POT-Creation-Date: 2019-05-15 17:07+0100\n"
+"PO-Revision-Date: 2019-05-15 17:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-web-instant-messenger-admin.php:97
+msgid "Web Instant Messenger Options"
+msgstr "Opzioni di Web Instant Messenger"
+
+#: admin/class-web-instant-messenger-admin.php:97
+msgid "WIM Options"
+msgstr "Opzioni WIM"
+
+#: admin/class-web-instant-messenger-admin.php:112
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/class-web-instant-messenger-admin.php:191
+#: admin/partials/web-instant-messenger-admin-display.php:50
+msgid "Something went wrong: "
+msgstr "Qualcosa è andato storto:"
+
+#: admin/class-web-instant-messenger-admin.php:198
+msgid "Settings have been saved"
+msgstr "Le impostazioni sono state salvate"
+
+#: admin/class-web-instant-messenger-admin.php:225
+msgid "Irks! An error has occurred twice."
+msgstr "Infastidisce! Si è verificato un errore due volte."
+
+#: admin/partials/web-instant-messenger-admin-display.php:54
+msgid "Web Instant Messenger authorized!"
+msgstr "Web Instant Messenger autorizzato!"
+
+#: admin/partials/web-instant-messenger-admin-display.php:62
+msgid "Web Instant Messenger unauthorized!"
+msgstr "Web Instant Messenger non autorizzato!"
+
+#: admin/partials/web-instant-messenger-admin-display.php:67
+msgid "Not a valid domain!"
+msgstr "Non è un dominio valido!"
+
+#: admin/partials/web-instant-messenger-admin-display.php:82
+msgid "Verify Activation"
+msgstr "Verifica l&#39;attivazione"
+
+#: admin/partials/web-instant-messenger-admin-display.php:120
+#: admin/partials/web-instant-messenger-admin-display.php:126
+msgid "Activate Web Instant Messenger"
+msgstr "Attiva Web Instant Messenger"
+
+#: admin/partials/web-instant-messenger-admin-display.php:136
+msgid "Business Name"
+msgstr "Nome azienda/Ragione Sociale"
+
+#: admin/partials/web-instant-messenger-admin-display.php:143
+#: admin/partials/web-instant-messenger-admin-display.php:149
+msgid "Insert here your business name which will appear on the chat header"
+msgstr ""
+"Inserisci qui il nome della tua attività commerciale che verrà "
+"visualizzato nell&#39;intestazione della chat"
+
+#: admin/partials/web-instant-messenger-admin-display.php:157
+msgid "Auto show WIM"
+msgstr "Aprire automaticamente WIM"
+
+#: admin/partials/web-instant-messenger-admin-display.php:162
+#: admin/partials/web-instant-messenger-admin-display.php:192
+msgid "YES"
+msgstr "SÌ"
+
+#: admin/partials/web-instant-messenger-admin-display.php:163
+#: admin/partials/web-instant-messenger-admin-display.php:193
+msgid "NO"
+msgstr "NO"
+
+#: admin/partials/web-instant-messenger-admin-display.php:170
+msgid "Auto show WIM after"
+msgstr "Aprire automaticamente WIM dopo"
+
+#: admin/partials/web-instant-messenger-admin-display.php:175
+msgid "5s"
+msgstr "5s"
+
+#: admin/partials/web-instant-messenger-admin-display.php:176
+msgid "10s"
+msgstr "10s"
+
+#: admin/partials/web-instant-messenger-admin-display.php:177
+msgid "20s"
+msgstr "20s"
+
+#: admin/partials/web-instant-messenger-admin-display.php:178
+msgid "30s"
+msgstr "30s"
+
+#: admin/partials/web-instant-messenger-admin-display.php:179
+msgid "45s"
+msgstr "45s"
+
+#: admin/partials/web-instant-messenger-admin-display.php:180
+msgid "60s"
+msgstr "64s"
+
+#: admin/partials/web-instant-messenger-admin-display.php:187
+msgid "Show On Mobile"
+msgstr "Mostra su dispositivi mobile"
+
+#: admin/partials/web-instant-messenger-admin-display.php:200
+msgid "Language"
+msgstr "Lingua"
+
+#: admin/partials/web-instant-messenger-admin-display.php:205
+msgid "IT"
+msgstr "IT"
+
+#: admin/partials/web-instant-messenger-admin-display.php:206
+msgid "EN"
+msgstr "EN"
+
+#: admin/partials/web-instant-messenger-admin-display.php:213
+msgid "Automatic Message 0"
+msgstr "Messaggio automatico 0"
+
+#: admin/partials/web-instant-messenger-admin-display.php:218
+msgid "Salve! Come posso esserle utile?"
+msgstr "Salve! Come posso esserle utile?"
+
+#: admin/partials/web-instant-messenger-admin-display.php:225
+msgid "Automatic Message 1"
+msgstr "Messaggio automatico 1"
+
+#: admin/partials/web-instant-messenger-admin-display.php:230
+msgid ""
+"Gentilmente, mi può lasciare un contatto telefonico o email in modo da "
+"poterla eventualmente ricontattare?"
+msgstr ""
+"Gentilmente, mi può lasciare un contatto telefonico o email in modo da "
+"poterla eventualmente ricontattare?"
+
+#: admin/partials/web-instant-messenger-admin-display.php:238
+msgid "Save Options"
+msgstr "Salva Opzioni"
